@@ -24,7 +24,6 @@
 **ℹ️ Tips and Tricks:**
 
 - [WireGuard Multiple Servers Split-Tunneling](https://github.com/138138138/wireguard-multi-server-splittunnel) - Connect and split-tunnel between multiple servers simultaneously
-
 - [Browser Reduce window.screen Fingerprint](https://github.com/138138138/browser-reduce-windowscreen-fingerprint) - Reduce the fingerprint uniqueness in window.screen in chromium-based browsers
 - [Mouse Scaling Workarounds in Linux X11/Xorg](https://github.com/138138138/x11-mouse-scaling) - Instructions to scaling mouse speed on Linux X11/Xorg
 
