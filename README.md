@@ -30,7 +30,7 @@
 **📤 Public Contributions:**
 
 - [Invidious](https://github.com/iv-org/invidious) - An open source alternative front-end to YouTube. Fixed audio quality issues and various UI elements ([my fork](https://github.com/138138138/invidious))
-- [Whoogle Search](https://github.com/benbusby/whoogle-search) - Get Google search results, but without any ads, javascript, AMP links, cookies, or IP address tracking. Fixed browser referreal reveal upon opening links ([Pull Request 698](https://github.com/benbusby/whoogle-search/pull/698))
+- [Whoogle Search](https://github.com/benbusby/whoogle-search) - Get Google search results, but without any ads, javascript, AMP links, cookies, or IP address tracking. Fixed browser referreal reveal upon opening links (Pull Request: [698](https://github.com/benbusby/whoogle-search/pull/698))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
