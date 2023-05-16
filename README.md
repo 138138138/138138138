@@ -29,13 +29,9 @@
 
 **📤 Public Contributions:**
 
-- [Invidious](https://github.com/iv-org/invidious) - An open source alternative front-end to YouTube. Fixed audio quality issues and various UI elements
+- [Invidious](https://github.com/iv-org/invidious) - An open source alternative front-end to YouTube. Fixed audio quality issues and various UI elements<br>(Pull Request: [3162](https://github.com/iv-org/invidious/pull/3162) [3160](https://github.com/iv-org/invidious/pull/3160) [3158](https://github.com/iv-org/invidious/pull/3158) [3157](https://github.com/iv-org/invidious/pull/3157) [3065](https://github.com/iv-org/invidious/pull/3065) [2990](https://github.com/iv-org/invidious/pull/2990) [2003](https://github.com/iv-org/invidious/pull/2003) [1781](https://github.com/iv-org/invidious/pull/1781) [1735](https://github.com/iv-org/invidious/pull/1735))
 
-  (Pull Request: [3162](https://github.com/iv-org/invidious/pull/3162) [3160](https://github.com/iv-org/invidious/pull/3160) [3158](https://github.com/iv-org/invidious/pull/3158) [3157](https://github.com/iv-org/invidious/pull/3157) [3065](https://github.com/iv-org/invidious/pull/3065) [2990](https://github.com/iv-org/invidious/pull/2990) [2003](https://github.com/iv-org/invidious/pull/2003) [1781](https://github.com/iv-org/invidious/pull/1781) [1735](https://github.com/iv-org/invidious/pull/1735))
-
-- [Whoogle Search](https://github.com/benbusby/whoogle-search) - Get Google search results, but without any ads, javascript, AMP links, cookies, or IP address tracking. Fixed browser referreal reveal upon opening links
-
-  (Pull Request: [698](https://github.com/benbusby/whoogle-search/pull/698))
+- [Whoogle Search](https://github.com/benbusby/whoogle-search) - Get Google search results, but without any ads, javascript, AMP links, cookies, or IP address tracking. Fixed browser referreal reveal upon opening links<br>(Pull Request: [698](https://github.com/benbusby/whoogle-search/pull/698))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
