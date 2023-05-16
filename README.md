@@ -15,20 +15,20 @@
 
 <h3 align="left">My Projects:</h3>
 
-**Apps and Websites:**
+**📱 Apps and Websites:**
 
 - [Multi-Screen Viewer](https://github.com/138138138/multi-screen-viewer) - Play 2 images to 2 different screen at the same time
 - [Bash Recycle Bin](https://github.com/138138138/bash-recyclebin) - Recycle and restore script using bash
 - [html-css-classwork1](https://github.com/138138138/html-css-classwork1) - My classwork for making a travel site using basic HTML and CSS
 
-**Tips and Tricks:**
+**ℹ️ Tips and Tricks:**
 
 - [WireGuard Multiple Servers Split-Tunneling](https://github.com/138138138/wireguard-multi-server-splittunnel) - Connect and split-tunnel between multiple servers simultaneously
 
 - [Browser Reduce window.screen Fingerprint](https://github.com/138138138/browser-reduce-windowscreen-fingerprint) - Reduce the fingerprint uniqueness in window.screen in chromium-based browsers
 - [Mouse Scaling Workarounds in Linux X11/Xorg](https://github.com/138138138/x11-mouse-scaling) - Instructions to scaling mouse speed on Linux X11/Xorg
 
-**Public Contributions:**
+**📤 Public Contributions:**
 
 - [Invidious](https://github.com/iv-org/invidious) - An open source alternative front-end to YouTube. Fixed audio quality issues and various UI elements ([my fork](https://github.com/iv-org/invidious))
 - [Whoogle Search](https://github.com/138138138/whoogle-search) - Get Google search results, but without any ads, javascript, AMP links, cookies, or IP address tracking. Fixed browser referreal reveal upon opening links ([my fork](https://github.com/138138138/invidious))
