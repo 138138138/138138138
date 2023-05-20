@@ -19,6 +19,7 @@
 
 - [Multi-Screen Viewer](https://github.com/138138138/multi-screen-viewer) - Play 2 images to 2 different screen at the same time
 - [Bash Recycle Bin](https://github.com/138138138/bash-recyclebin) - Recycle and restore script using bash
+- [Spring Boot CURD Example](https://github.com/138138138/java-springboot-example) - An example of CRUD operation REST APIs using Spring Boot and PostgreSQL
 - [html-css-classwork1](https://github.com/138138138/html-css-classwork1) - My classwork for making a travel site using basic HTML and CSS
 
 **ℹ️ Tips and Tricks:**
