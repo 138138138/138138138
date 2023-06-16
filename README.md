@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/138138138](https://github.com/138138138)
 
-- 📫 How to reach me **choimingkin90s@tutanota.com**
+- 📫 How to reach me **nighton.choi@outlook.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/nighton-choi-a0a5b2272/](https://www.linkedin.com/in/nighton-choi-a0a5b2272/)
 
