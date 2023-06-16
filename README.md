@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **nighton.choi@outlook.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/nighton-choi-a0a5b2272/](https://www.linkedin.com/in/nighton-choi-a0a5b2272/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/nighton-choi](https://www.linkedin.com/in/nighton-choi)
 
 <h3 align="left">My Projects:</h3>
 
