@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nighton Choi</h1>
 <h3 align="center">Full-stack programmer and web-hosting enthusiast</h3>
-<h3 align="center"><b><a href="https://www.nightonchoi.xyz/">https://www.nightonchoi.xyz/</a></b></h3>
+<h3 align="center"><b><a href="https://www.nightonchoi.xyz">https://www.nightonchoi.xyz</a></b></h3>
 
 📍 Hong Kong  
 📧 [nighton.choi@outlook.com](mailto:nighton.choi@outlook.com)  
