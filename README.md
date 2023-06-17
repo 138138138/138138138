@@ -4,7 +4,7 @@
 
 📍 Hong Kong  
 📧 [nighton.choi@outlook.com](mailto:nighton.choi@outlook.com)  
-LinkedIn: [https://www.linkedin.com/in/nighton-choi](https://www.linkedin.com/in/nighton-choi)
+💼 [https://www.linkedin.com/in/nighton-choi](https://www.linkedin.com/in/nighton-choi)
 
 <h3 align="left">My Projects:</h3>
 
