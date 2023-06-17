@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nighton Choi</h1>
 <h3 align="center">Full-stack programmer and web-hosting enthusiast</h3>
-
 <h3 align="center"><b><a href="https://www.nightonchoi.xyz/">https://www.nightonchoi.xyz/</a></b></h3>
 
-Location: Hong Kong  
-Email: [nighton.choi@outlook.com](mailto:nighton.choi@outlook.com)  
+📍 Hong Kong  
+📧 [nighton.choi@outlook.com](mailto:nighton.choi@outlook.com)  
 LinkedIn: [https://www.linkedin.com/in/nighton-choi](https://www.linkedin.com/in/nighton-choi)
 
 <h3 align="left">My Projects:</h3>
