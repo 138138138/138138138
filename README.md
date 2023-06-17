@@ -30,7 +30,7 @@ I host alternative frontends for various big-tech websites. The advantages of us
 - [Browser Reduce window.screen Fingerprint](https://github.com/138138138/browser-reduce-windowscreen-fingerprint) - Reduce the fingerprint uniqueness in window.screen in chromium-based browsers
 - [Mouse Scaling Workarounds in Linux X11/Xorg](https://github.com/138138138/x11-mouse-scaling) - Instructions to scaling mouse speed on Linux X11/Xorg
 
-**📤 Public Contributions:**
+<h3 align="left">Code Contributions:</h3>
 
 - [Invidious](https://github.com/iv-org/invidious) - Fixed audio quality issues and various UI elements  
   (Pull Request: [3162](https://github.com/iv-org/invidious/pull/3162) [3160](https://github.com/iv-org/invidious/pull/3160) [3158](https://github.com/iv-org/invidious/pull/3158) [3157](https://github.com/iv-org/invidious/pull/3157) [3065](https://github.com/iv-org/invidious/pull/3065) [2990](https://github.com/iv-org/invidious/pull/2990) [2003](https://github.com/iv-org/invidious/pull/2003) [1781](https://github.com/iv-org/invidious/pull/1781) [1735](https://github.com/iv-org/invidious/pull/1735))
