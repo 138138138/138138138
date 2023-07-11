@@ -22,6 +22,7 @@ I host alternative frontends for various big-tech websites. The advantages of us
 - [Multi-Screen Viewer](https://github.com/138138138/multi-screen-viewer) - Play 2 images to 2 different screen at the same time
 - [Bash Recycle Bin](https://github.com/138138138/bash-recyclebin) - Recycle and restore script using bash
 - [Spring Boot CURD Example](https://github.com/138138138/java-springboot-example) - An example of CRUD operation REST APIs using Spring Boot and PostgreSQL
+- [Vue Example](https://github.com/138138138/vue-example) - An example Vue project for adding/editing/deleteing data
 - [html-css-classwork1](https://github.com/138138138/html-css-classwork1) - My classwork for making a travel site using basic HTML and CSS
 - [TCP Socket Tool](https://github.com/138138138/html-css-classwork1) - A simple tool to receive and send TCP requests using HTTP requests
 
