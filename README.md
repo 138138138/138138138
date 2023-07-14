@@ -3,7 +3,6 @@
 
 📍 Hong Kong  
 📧 [nighton.choi@outlook.com](mailto:nighton.choi@outlook.com)  
-💼 [linkedin.com/in/nighton-choi](https://www.linkedin.com/in/nighton-choi)
 
 <h3 align="left">Public Services:</h3>
 
@@ -24,7 +23,7 @@ I host alternative frontends for various big-tech websites. The advantages of us
 - [Spring Boot CURD Example](https://github.com/138138138/java-springboot-example) - An example of CRUD operation REST APIs using Spring Boot and PostgreSQL
 - [Vue Example](https://github.com/138138138/vue-example) - An example Vue project for adding/editing/deleteing data
 - [html-css-classwork1](https://github.com/138138138/html-css-classwork1) - My classwork for making a travel site using basic HTML and CSS
-- [TCP Socket Tool](https://github.com/138138138/html-css-classwork1) - A simple tool to receive and send TCP requests using HTTP requests
+- [TCP Socket Tool](https://github.com/138138138/tcp-socket-tool) - A simple tool to receive and send TCP requests using HTTP requests
 
 **ℹ️ Tips and Tricks:**
 
