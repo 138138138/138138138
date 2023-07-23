@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ming Kin (Nighton) Choi</h1>
+<h1 align="center">Hi 👋, I'm Ming Kin Choi</h1>
 <h3 align="center">Full-stack programmer and web-hosting enthusiast</h3>
 
 📍 Hong Kong  
-📧 [nighton.choi@outlook.com](mailto:nighton.choi@outlook.com)  
+📧 [choimingkin90s@tutanota.com](mailto:choimingkin90s@tutanota.com)  
 
 <h3 align="left">Public Services:</h3>
 
