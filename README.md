@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nighton Choi</h1>
+<h1 align="center">Hi 👋, I'm Ming Kin (Nighton) Choi</h1>
 <h3 align="center">Full-stack programmer and web-hosting enthusiast</h3>
 
 📍 Hong Kong  
