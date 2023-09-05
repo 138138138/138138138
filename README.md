@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ming Kin Choi</h1>
+<h1 align="center">Hi 👋, I'm Mingkin Choi</h1>
 <h3 align="center">Full-stack programmer and web-hosting enthusiast</h3>
 
 📍 Hong Kong  
