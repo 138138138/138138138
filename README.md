@@ -3,6 +3,7 @@
 
 📍 Hong Kong  
 📧 [choimingkin90s@tutanota.com](mailto:choimingkin90s@tutanota.com)  
+💬 [instagram.com/nightonm90s](https://www.instagram.com/nightonm90s) (Instagram)
 
 <h3 align="left">Public Services:</h3>
 
